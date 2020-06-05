@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul{
+list-style-type: disc;
+list-style-position: body;
+}
